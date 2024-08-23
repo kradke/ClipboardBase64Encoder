@@ -14,6 +14,8 @@ Options:\
   -i <FILENAME> Read input data from the specified file instead of the clipboard.\
 
 Example:\
+<pre>
   java ClipboardBase64Encoder -q -c\
   java ClipboardBase64Encoder -q -o output.txt\
   java ClipboardBase64Encoder -i input.txt -o output.txt\
+</pre>
