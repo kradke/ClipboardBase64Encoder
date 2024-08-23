@@ -3,7 +3,7 @@ A handy 2-cent Base64 encoder tool
 
 
 ## USAGE
-  java ClipboardBase64Encoder [options]\
+  <pre>java ClipboardBase64Encoder [options]</pre>\
   Without any option(s), the clipboard is used for input and output.\
 
 Options:\
